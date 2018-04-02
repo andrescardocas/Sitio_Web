@@ -1,0 +1,162 @@
+*{
+	padding:0;
+	margin: 0;
+}
+
+
+header{ 
+
+	background:  #005883;
+	color: #FFFFFF;
+	margin-top: 0.5em;
+	background-image: url("D:/Desktop/Sitio_Web/Sitio Web/img/logo_vertical.png"); 
+	background-repeat: no-repeat;
+	background-size: 130px;
+
+
+	}
+
+h1#titulo {
+
+	text-align: center;
+	text-shadow:5px 5px 10px rgba(100, 100, 100, 0.9);
+	margin:0em;
+	color: #FFFFFF;
+
+	
+
+}
+
+h1#titulos {
+
+	font-family: verdana;
+	text-align: center;
+	text-shadow:5px 5px 10px rgba(100, 100, 100, 0.9);
+	margin-top:0.6em;
+	color: #FFFFFF;
+	font-size: 4em;
+
+
+}
+
+h2#text{
+	text-align: left;
+	margin-left: 20px;
+	color: #FFFFFF;
+	margin-top: 200px;
+	font-size: 2em;
+
+	
+}
+h2#subtitulos{
+
+	text-align: left;
+	margin-left: 20px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	font-size: 2em;
+}
+
+h2#algorit{
+
+	text-align: left;
+	margin-left: 20px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	font-size: 3em;
+}
+
+p{
+	font-size: 1em;
+	text-align: left;
+	margin-right: 900px;
+	margin-left: 20px;
+	color: #FFFFFF;
+	margin-top: 20px;
+
+}
+
+body{
+	background:  #005883;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+nav{
+
+	list-style:none;
+    float:left;
+    border: 1px dashed;
+    padding: 2%;
+    width:100%;
+    background:  #005883;
+    margin-top: 5em;
+  	border: transparent;
+
+}
+
+ li#algoritmos {
+
+	list-style:none;
+ 	float:left;
+    margin-right:80px;
+    margin-left:50px;
+    margin-bottom:10px;
+   	background:  #FFFFFF;
+    padding:5px;
+    color:  #005883;
+    text-decoration:none;
+	
+
+ 	
+ 	}
+
+ li#POO { 	
+
+	list-style:none;
+	float:left;
+    margin-left:100px;
+    margin-right:80px;
+    margin-bottom:10px;
+   	background: #FFFFFF;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #005883;
+    text-decoration:none;
+
+ }
+
+ li#Clasespoo{
+
+	list-style:none;
+	float:left;
+    margin-left:100px;
+    margin-bottom:10px;
+   	background: #FFFFFF;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #005883;
+    text-decoration:none;
+
+
+ }
+
+ section#index
+ {
+ 
+ }
+
+ div
+ {
+ 	
+
+
+ }
+
+footer
+ 	{
+ 		color: #FFFFFF;
+ 		margin-top: 2em;
+
+	}
+
